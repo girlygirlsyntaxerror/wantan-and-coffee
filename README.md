@@ -1,3 +1,3 @@
 Wantan and Coffee
 
-developed by bedezub & <your name>
+developed by bedezub & *your name*
